@@ -1,2 +1,3 @@
 # Dates
-Creating new date instance in JS 
+
+var now = new Date();
